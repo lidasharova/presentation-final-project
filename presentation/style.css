@@ -6,3 +6,54 @@ h5,
 h6 {
   letter-spacing: 1;
 }
+
+.main-page {
+  padding-right: 15px;
+}
+.no-idea {
+  width: 500px;
+}
+
+.raci {
+  width: 700px;
+}
+
+.explain {
+  width: 600px;
+}
+
+.cat-call {
+  width: 400px;
+}
+
+.board {
+  width: 1000px;
+}
+
+.code-cat {
+  width: 280px;
+}
+
+.approved {
+  width: 800px;
+}
+
+.vklad {
+  width: 600px;
+}
+
+.problem {
+  width: 450px;
+}
+
+.kitten-keybo {
+  width: 400px;
+}
+
+.pr {
+  width: 800px;
+}
+
+.review-chat{
+  width: 800px;
+}
