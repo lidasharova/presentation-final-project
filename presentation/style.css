@@ -54,6 +54,17 @@ h6 {
   width: 800px;
 }
 
-.review-chat{
+.review-chat {
+  width: 800px;
+}
+.screen {
+  width: 1000px;
+}
+
+.chats {
+  width: 1000px;
+}
+
+.sdk {
   width: 800px;
 }
